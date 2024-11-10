@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on WebVR, virtual tours, interactive spatial media
 - 📫 How to reach me joystingmonkey@gmail.com
 - 😄 Pronouns Joystickmonkey
-- ⚡ Fun fact Opensource does work, short is the new video, the AI revolution will not be televised. 
+- ⚡ Fun fact Opensource does work, short is the new video, the AI revolution will not be televised
 - :hamburger: https://huggingface.co/Joystickmonkey
 - :fries: https://glitch.com/@Joystickmonkey
 - :pizza: https://www.youtube.com/@Joystickmonkey
