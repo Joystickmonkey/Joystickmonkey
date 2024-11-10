@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joystickmonkey
+- 👋 Hi, I’m Joystickmonkey
 - 👀 I’m interested in creating opensource tools and apps
 - 🌱 I’m currently learning HTML, CSS, Javascript ( WebVR )
 - 💞️ I’m looking to collaborate on WebVR, virtual tours, interactive spatial media
